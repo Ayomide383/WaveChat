@@ -1,2 +1,2 @@
 # WaveChat
- A modern, fluid chat application designed for fast and seamless real-time messaging.
+ WaveChat is a modern, real-time messaging application designed with a sleek blue interface for fluid, effortless communication. Built for speed, security, and modern collaboration, WaveChat brings people together through smooth chats and clean UI.
